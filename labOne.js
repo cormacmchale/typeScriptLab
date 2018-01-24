@@ -9,4 +9,4 @@ var firstVal = 42;
 var secondVal = 1;
 var sumOfVals = (firstVal + secondVal).toLocaleString();
 addition(sumOfVals);
-//addition(myAdd);
+console.log(myAdd(5, 6));

@@ -13,5 +13,5 @@ let myAdd = function(x: number, y: number): number { return x + y; };
     let secondVal: number = 1;
     let sumOfVals: string = (firstVal + secondVal).toLocaleString();
     addition(sumOfVals);
-    //addition(myAdd);
+  console.log(myAdd(5,6));
     
